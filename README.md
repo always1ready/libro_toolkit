@@ -4,11 +4,11 @@ Common librarian tools in a convenient digital form: databases, graphs, lists, e
 ## Contents:
 **1. Database of author codes based on L. Havkina system. Russian analogue of Cutter codes.**
 
-[havkina_table_all](havkina_table_all.xlsx) — full cyrrilic and latin table with letter-by-letter sheet division.
+[havkina_table_all](havkina_tables/havkina_table_all.xlsx) — full cyrrilic and latin table with letter-by-letter sheet division.
 
-[havkina_table_lat](havkina_table_lat.xlsx) — latin only table with letter-by-letter sheet division.
+[havkina_table_lat](havkina_tables/havkina_table_lat.xlsx) — latin only table with letter-by-letter sheet division.
 
-[havkina_table_cyr](havkina_table_cyr.xlsx) — cyrrilic only table with letter-by-letter sheet division.
+[havkina_table_cyr](havkina_tables/havkina_table_cyr.xlsx) — cyrrilic only table with letter-by-letter sheet division.
 
   Prepared with reference to:
   * Хавкина Л.Б. Таблица авторских знаков двоичных : Практ. пособие для библиотекарей. - 25-е изд. - М.: Либерея, 1992. - 24 с.
